@@ -1,4 +1,4 @@
-site_title = "xiximayou-arxiv"
+site_title = "MyArxiv"
 limit_days = 7
 cache_url = "https://taishan1994.github.io/MyArxiv/cache.json"
 
