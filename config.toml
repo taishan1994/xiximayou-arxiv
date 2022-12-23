@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "xiximayou-arxiv"
 limit_days = 7
 cache_url = "https://taishan1994.github.io/MyArxiv/cache.json"
 
@@ -6,26 +6,6 @@ cache_url = "https://taishan1994.github.io/MyArxiv/cache.json"
 limit = 150
 category = "cs.CL"
 title = "Computation and Language"
-
-[[sources]]
-limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
-
-[[sources]]
-limit = 150
-category = "cs.LG"
-title = "Machine Learning"
-
-[[sources]]
-limit = 150
-category = "cs.MM"
-title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
